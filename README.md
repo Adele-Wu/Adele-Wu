@@ -27,15 +27,13 @@ Hello, and thanks for visiting! 👋 I'm Adele, someone who enjoys making things
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-##### Version Control & Collaboration:
+##### Other Technologies:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-05AFE6?style=flat-square&logo=miro&logoColor=white)
 ![Agile](https://img.shields.io/badge/-Agile-009B97?style=flat-square)
 ![Kanban Board](https://img.shields.io/badge/-Kanban%20Board-007CC3?style=flat-square)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-##### Other Technologies:
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Microcontroller](https://img.shields.io/badge/-Microcontroller-6E36A1?style=flat-square)
