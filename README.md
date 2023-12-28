@@ -1,6 +1,6 @@
 # 👩‍💻 Welcome to the Coding Portfolio of Adele Wu!
 
-Hello, and thanks for visiting! 👋 I'm Adele, someone who enjoys making things look and feel good. I'm a QA Engineer at Zwift who also enjoys working on personal projects. Dive into my GitHub repository where each project represents a step in my continuous learning journey. 🚀
+Hello, and thanks for visiting! 👋 I'm Adele, someone who enjoys making things look and feel good. I'm a QA Engineer at Zwift with a background in Computer Science. I am passionate about coding and enjoy working on personal projects that not only allow me to express my creativity but also contribute to my continuous personal and professional growth. Dive into my GitHub repository where each project represents a step in my continuous learning journey. 🚀
 
 ## 🛠️ Technologies & Tools
 
